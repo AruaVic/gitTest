@@ -1,4 +1,4 @@
-// The Vue build version to load with the `import` command
+// The Vue build version to load with the `import` command dev change.
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 // 强强测试copy
 import Vue from 'vue'
